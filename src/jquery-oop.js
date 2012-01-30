@@ -1,6 +1,6 @@
 
 (function($) {
 
-    $.OOP = $.OOP || {};
+    
 
 })(jQuery);
